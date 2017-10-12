@@ -16,12 +16,12 @@ b.	Percentage of Individuals using the Internet http://data.un.org/Data.aspx?d=I
 
 3.	Import the required packages as follows:
 
-        **import pandas as pd**
-        **import matplotlib as mpl**
-        **import numpy as np**
-        **import matplotlib.pyplot as plt**
+         import pandas as pd 
+         import matplotlib as mpl 
+         import numpy as np 
+         import matplotlib.pyplot as plt 
 
-4.	Use the *%matplotlib inline* command so that your plots show in the notebook.
+4.	Use the __%matplotlib inline__ command so that your plots show in the notebook.
 5.	Using the pandas read_csv() function, read the two datasets into your notebook.
 6.	Take a look at the data types and the first 6 rows for both datasets.
 7.	Drop the footnotes data from both datasets.
@@ -57,11 +57,11 @@ c.	2012 Percent Using the Internet vs Net Migration
 ### In class practice 2:
 1.	Import stats from scipy like so:
 
-        **from scipy import stats**
+        from scipy import stats 
 
 2.	Print the docstring for stats:
 
-        **print(stats.__doc__)**
+        print(stats.__doc__) 
 
 3.	Create a set of 500 randomly generated numbers called iq_scores.
 4.	Using the example at the bottom of this webpage as a guide (https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html), plot the distribution of your iq_scores.  Does it look normally distributed?
