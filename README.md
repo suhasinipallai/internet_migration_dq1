@@ -1,2 +1,3 @@
 # data-question-1
-this is the repo for the first data question
+This is the repo for the first data question.
+Instructions.md will give you the steps for the assignment.
