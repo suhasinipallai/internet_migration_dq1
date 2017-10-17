@@ -1,6 +1,12 @@
 ### Week 1 – 3 (October 17 – Nov 4)
 
-## With this data question, we will:
+## What does net migration look like for different countries?
+## Does use of the internet vary amongst different countries?
+## Are these things related in any way?
+## Are there any surprising things about net migration and/or internet use in the data?
+
+
+## With these data questions, we will:
 * Get familiar with Jupyter Notebooks
 * Learn to read a csv file into your local environment
 * Explore individual variables and their relatedness to other variables in the dataset
@@ -63,7 +69,7 @@ c.	2012 Percent Using the Internet vs Net Migration
 
         print(stats.__doc__) 
 
-3.	Create a set of 500 randomly generated numbers called iq_scores.
+3.	Create a set of 500 randomly generated numbers called iq_scores (mean = 100, sd = 15).
 4.	Using the example at the bottom of this webpage as a guide (https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.random.normal.html), plot the distribution of your iq_scores.  Does it look normally distributed?
 
 
