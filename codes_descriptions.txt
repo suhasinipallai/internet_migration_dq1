@@ -1,0 +1,25 @@
+BB	BB beverage 
+BT	Wholesaler transfer 
+HD	ACCUMUALTION OF GARBAGE & TRASH
+SW	Violations - for Construction Activities
+CAAA	HIGH WEEDS
+CAAB	Building and Fire Board Appeal
+CAAE	Electrical Board Appeal
+CAAF	FIRE PROTECTION 
+CAAH	Ventilation 
+CAAM	Mechanical Board Appeal
+CAAP	Plumbing Board Appeal
+CAAR	LANDLORD REGISTRATION REQUIRED
+CAAZ	Zoning Board Appeal
+CAE	Electrical Permit
+CAG	Gas / Mech Up To 750 BTUS – AC
+CAH	Electrical HVAC Permit
+CAL	Electrical Low Voltage Permit
+CAM	Building Moving Permit
+CAP	Plumbing Permit
+CAS	Plumbing – Septic Permit
+CAZ	Converted Comzo Change Permit
+DUM	
+917	
+	
+* capitalized from the excel file,rest from website	

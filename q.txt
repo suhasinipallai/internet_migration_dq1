@@ -1,0 +1,41 @@
+Problems in our dataset
+For illustration purpose in the above dataset we have created each row with a problem as listed below:
+
+1. Missing headers in the csv file
+2. Multiple variables are stored in one column
+3. Column data contains inconsistent unit values
+4. Missing values
+5. An empty row in the data
+6. Duplicate records in the data
+7. Non-ASCII characters
+8. Column headers are values and not variable names
+
+==========================
+Missing values:
+a. Deletion: Remove records with missing values
+b. Dummy substitution: Replace missing values with a dummy but valid value: e.g.: 0 for numerical values.
+c. Mean substitution: Replace the missing values with the mean.
+d. Frequent substitution: Replace the missing values with the most frequent item.
+e. Improve the data collector: Your business folk will talk to the clients and inform
+ them about why it is worth fixing the problem with the data collector.
+
+=====================
+to drop duplicate values:
+
+df = df.drop_duplicates(subset=['Firstname','Lastname'])
+
+===============================
+
+Values are organised in two ways. Every value belongs to a variable and an
+observation. A variable contains all values that measure the same underlying attribute (like
+height, temperature, duration) across units. An observation contains all values measured on
+the same unit (like a person, or a day, or a race) across attributes.
+=============================================================
+
+1. Each variable forms a column.
+2. Each observation forms a row.
+3. Each type of observational unit forms a table.
+==========================================
+
+
+
